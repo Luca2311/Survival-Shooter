@@ -7,6 +7,7 @@ public class EnemyAttack : MonoBehaviour
     public int attackDamage = 10;
 
 
+
     Animator anim;
     GameObject player;
     PlayerHealth playerHealth;
